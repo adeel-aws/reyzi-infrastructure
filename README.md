@@ -410,8 +410,8 @@ After `terraform apply`, key outputs include:
 
 **Muhammad Adeel** — DevOps Engineer
 
-[![GitHub](https://img.shields.io/badge/GitHub-muhammadadeel147-181717?style=for-the-badge&logo=github)](https://github.com/muhammadadeel147)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/muhammad-adeel)
+[![GitHub](https://img.shields.io/badge/GitHub-muhammadadeel147-181717?style=for-the-badge&logo=github)](https://github.com/adeel-aws)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/adeel-aws)
 
 ---
 
